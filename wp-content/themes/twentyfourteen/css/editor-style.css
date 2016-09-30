@@ -94,7 +94,13 @@ h5:first-child,
 h6:first-child {
 	margin-top: 0;
 }
-
+ 
+header {
+	clear: both;
+	font-weight: 700;
+	margin: 36px 0 12px;	
+	
+}
 
 /**
  * 3.0 Text Elements
