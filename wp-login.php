@@ -7,6 +7,7 @@
  *
  * @package WordPress
  */
+echo "test file";
 
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require( dirname(__FILE__) . '/wp-load.php' );
